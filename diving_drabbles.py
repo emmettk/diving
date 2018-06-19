@@ -72,3 +72,17 @@ def SAC_worksheet_version(time, psi_used, avg_depth, cylinder_volume, working_pr
     H = E/G
     print("Since I used ", round(E,2), " psi per minute at the surface, my SAC rate is ", round(H,2), " cubic ft/minute.")
     return H
+
+def SAC_interactive_version():
+    '''
+    Get SAC by requesting time, psi used, avg depth, cylinder volume and working pressure from user
+    Then runs SAC worksheet version
+    '''
+    time = float(input('Please enter the dive time in minutes: '))
+    psi_used = float(input('Please enter the air consumed in psi: '))
+    avg_depth = float(input('Please enter the average depth in fsw: '))
+    cylinder_volume = float(input('Please enter the cylinder volume in cubic feet: '))
+    working_pressure = float(input('Please enter the working pressure of the cylinder in psi: '))
+    print("Thank you. \n")
+    SAC_worksheet_version(time, psi_used, avg_depth, cylinder_volume, working_pressure)
+    
