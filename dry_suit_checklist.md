@@ -28,8 +28,8 @@
 * Pre-gear check
 * BC onto tank
 * Regulator onto tank/BC
-** Check pressure
-** Connect BC inflator hose
+  * Check pressure
+  * Connect BC inflator hose
 * Light, tools connected to BC
 * Talk to port office and boats (T-15 min)
 * Put on underlayers and drysuit
@@ -37,5 +37,6 @@
 * Put on weight harness 
 * Put on gloves, hood
 * Put on tank/BC
+* Connect drysuit inflator hose 
 * Mask around neck
 * Fins in hand
