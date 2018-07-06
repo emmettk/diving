@@ -1,4 +1,4 @@
-# Dry Suit Pre-Dive Checklist
+# Drysuit Pre-Dive Checklist
 
 ## Gear List
 * Weights
