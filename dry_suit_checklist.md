@@ -7,6 +7,7 @@
 * Tank
 * Mask
 * Gloves
+* Computer
 * Hood (if applicable) 
 * Regulator with drysuit hose
 * Drysuit fins
@@ -35,7 +36,7 @@
 * Put on underlayers and drysuit
 * Dive flag up
 * Put on weight harness 
-* Put on gloves, hood
+* Put on gloves, hood, computer
 * Put on tank/BC
 * Connect drysuit inflator hose 
 * Mask around neck
