@@ -31,12 +31,14 @@
 * Regulator onto tank/BC
   * Check tank pressure
   * Connect BC inflator hose
+* Connect tank to chair with bungee cord (if applicable)
 * Light, tools connected to BC
 * Talk to port office and boats (T-15 min)
 * Put on underlayers and drysuit
 * Dive flag up
 * Put on weight harness 
 * Put on gloves, hood, computer
+* Remove bungee from tank (if applicable)
 * Put on tank/BC
 * Connect drysuit inflator hose 
 * Mask around neck
